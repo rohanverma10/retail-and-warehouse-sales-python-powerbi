@@ -61,8 +61,7 @@ retail-and-warehouse-sales-python-powerbi/
 │   ├── final_sales_dataset_for_powerbi.xlsx
 │   └── retail_and_warehouse_sale.xlsx
 ├── notebooks/
-│   ├── Python_Project.ipynb
-│   └── Code_HTML_File.html
+│   └──  Python_Project.ipynb
 ├── Dashboard/
 │   └── Dashboard.pbix
 └── images/
