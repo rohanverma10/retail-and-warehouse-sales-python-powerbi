@@ -130,20 +130,19 @@ An interactive Power BI dashboard was created to visualize insights effectively:
 
 Follow the steps below to run and explore this project locally:
 
-1. **Clone the repository**
+1. **Clone the repository:**
    ```bash
   git clone https://github.com/yourusername/retail-and-warehouse-sales-analysis.git
-   cd Retail-Warehouse-Sales-Analysis
    ```   
-2. **Install required dependencies**
+2. **Install required dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
-3. **Run the Python analysis**
-   * Open 'Python_Project.ipynb' in **Jupyter Notebook** or **JupyterLab**
-   * Open 'Code_HTML_File.html' directly in a browser to view the analysis output
-4. **View the Power BI Dashboard**
-   * Open `Dashboard.pbix` in **Power BI Desktop**
+3. **Run the Python analysis:**  
+   *  Open 'Python_Project.ipynb' in **Jupyter Notebook** or **JupyterLab**  
+   *  Open 'Code_HTML_File.html' directly in a browser to view the analysis output
+4. **View the Power BI Dashboard:**  
+   * Open `Dashboard.pbix` in **Power BI Desktop**  
    * Refresh the data source if required
 
 ---
