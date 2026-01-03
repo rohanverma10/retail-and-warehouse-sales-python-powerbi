@@ -162,8 +162,8 @@ jupyter
 
 ## 💡 Key Business Insights
 
-* Sales are highly seasonal, with Rainy season contributing nearly half of total revenue.
-* Beer is the dominant product category, indicating revenue concentration risk.
+* Sales are highly seasonal, with Rainy season contributing nearly half of total revenue(49.72%).
+* Beer is the dominant product category(72.46% of Total sale), indicating revenue concentration risk.
 * A small number of suppliers and SKUs contribute a large share of sales.
 * Sales show noticeable volatility across months, impacting forecasting accuracy.
 
